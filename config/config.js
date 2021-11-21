@@ -10,17 +10,17 @@
 export default {
     lovexhj: {
         // 后端地址
-        ServerBase: "https://giteeapi.n0ts.cn/10015",
+        ServerBase: "https://giteeapi.n0ts.cn/10027",
         // 码云账号
-        owner: "n0ts",
+        owner: "colored_batch",
         // 仓库名称
-        repo: "jichou",
+        repo: "heng",
         // 页面刚加载文字
         loadingText: "正在打开小本本",
         // 首页
         lovexhjHeader: {
             // 首页标题
-            title: "TQY 与 XHJ 的记仇本本",
+            title: "ZYQ 与 LZF 的记仇本本",
             // 本本标题
             bookTitle: "爱我的猪"
         },
@@ -50,12 +50,12 @@ export default {
         identity: [
             {
                 // 名字
-                name: "佩琪",
+                name: "张依晴",
                 // 颜色
                 color: "#e84393"
             },
             {
-                name: "乔治",
+                name: "刘子凡",
                 color: "#0984e3"
             }
         ]
