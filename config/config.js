@@ -22,7 +22,7 @@ export default {
             // 首页标题
             title: "ZYQ 与 LZF 的记仇本本",
             // 本本标题
-            bookTitle: "爱我的猪"
+            bookTitle: "刘子凡的违法与犯罪"
         },
         // 目录页标题
         pageTitle: "目录",
